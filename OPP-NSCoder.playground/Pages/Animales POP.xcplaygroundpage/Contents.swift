@@ -41,6 +41,8 @@ struct Leon:Animal, Hablador {
     }
 }
 
+var leon1 = Leon(sonido: "Roar", numeroPatas: 4, alimentacion: .carnivoro)
+
 struct Jirafa:Animal {
     var numeroPatas: Int
     var alimentacion: Comida
@@ -68,3 +70,6 @@ struct Perro:Animal, Hablador, Raza {
 var perro1 = Perro(sonido: "Guau", numeroPatas: 4, alimentacion: .omnivoro, raza: .doberman)
 
 perro1.hablar()
+
+
+

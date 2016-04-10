@@ -36,6 +36,6 @@ class Perro:Animal {
 var labrador = Perro(sonido: "Guau", numeropatas: 4)
 labrador.raza = .Labrador
 
-
+var jirafa = Animal(sonido: "", numeropatas: 4)
 
 
