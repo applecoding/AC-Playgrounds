@@ -9,4 +9,5 @@ Playgrounds incluidos:
   * Incluye un ejemplo de abstracción de figuras geométricas generadas con la clase SKShapeNode en que la orientación a protocolos nos sirve como constructor de objetos, tal cual se utiliza en el juego cLrS de Gabhel Studios.
   
   Artículo relacionado en applecoding.com: https://applecoding.com/cursos/programacion-orientada-a-protocolos
-  El artículo incluye el vídeo de la charla, producido por NSCoder Night Madrid.
+  
+  El artículo incluye el vídeo de la charla-taller, producido por NSCoder Night Madrid
